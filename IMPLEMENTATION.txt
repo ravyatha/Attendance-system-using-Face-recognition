@@ -1,0 +1,25 @@
+IMPLEMENTATION:
+
+To install IDLE (Integrated Development and Learning Environment), which is the default Python IDE, you can follow these steps:
+
+Step 1: Check Python installation
+Before installing IDLE, ensure that Python is installed on your system.
+python --version
+
+
+Step 2: Verify Python package manager (pip)
+Check if you have pip installed by entering the following command in the command prompt or terminal:
+pip --version
+
+
+Step 3: Install IDLE using pip
+Once you have verified that Python and pip are installed, you can proceed to install IDLE. Open a command prompt or terminal and enter the following command:
+pip install idle
+
+Step 4: Launch IDLE
+After the installation is complete, you can launch IDLE by entering the following command in the command prompt or terminal:
+idle
+
+The IDLE editor window should open, and you can start writing and running Python code.
+
+That's it! You have successfully installed IDLE. Remember to save your Python files with a .py extension and use the editor to execute or run your code.
